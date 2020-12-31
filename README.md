@@ -1,4 +1,4 @@
-# Birdy
+# Twister
 full stack web app (clone of twitter)
 Full stack programming of a Social network web app using Java EE , React js, MongoDb and Mysql
 
